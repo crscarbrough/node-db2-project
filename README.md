@@ -10,7 +10,7 @@ In this challenge, you will write an API that can be used to manage _Cars_ store
 
 Your assignment page on Canvas should contain instructions for submitting this project. If you are still unsure, reach out to School Staff.
 
-### Task 2: Minimum Viable Product
+### Task 2: Minimum Viable Product X
 
 Build a RESTful API for an "cars" resource. The client for this API is a car dealer.
 
